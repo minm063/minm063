@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @minm063
-- 👀 I’m interested in DA, machine learning
-- 🌱 I’m currently learning python
 - 📫 How to reach me email jangmin063@gmail.com
 
 <!---
